@@ -1,0 +1,16 @@
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\bin\Release\SelectWorkOvertime.exe.config
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\bin\Release\SelectWorkOvertime.exe
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\bin\Release\SelectWorkOvertime.pdb
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SmallWaitUC.baml
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\MainWindow.g.cs
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SmallWaitUC.g.cs
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\App.g.cs
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime_MarkupCompile.cache
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime_MarkupCompile.lref
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\MainWindow.baml
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime.g.resources
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime.Properties.Resources.resources
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime.csproj.GenerateResource.Cache
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime.exe
+E:\项目本地\Test\SelectWorkOvertime\SelectWorkOvertime\obj\Release\SelectWorkOvertime.pdb
